@@ -16,5 +16,5 @@
 <br>
 
 <div align='center'>
-![image](https://github.com/manepradnya/Todo-List-App/assets/40739047/9ea50119-a691-46fe-931e-6cd9d6b3abac)
+<img src="https://github.com/manepradnya/Todo-List-App/assets/40739047/9ea50119-a691-46fe-931e-6cd9d6b3abac">
 </div>
