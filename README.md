@@ -4,7 +4,7 @@
 
   <p>It is a javascript game created to play a guessing game</p>
 
-👉 Live Demo: <a href='#'>Live Demo</a>
+👉 Live Demo: <a href='https://manepradnya.github.io/Todo-List-App/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
